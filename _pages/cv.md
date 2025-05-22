@@ -11,54 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science and Engineering, Korea University (2025.03 – Present)  
+  * Advisor: Prof. Paul Hongsuck Seo  
+* B.S. in Computer Science and Engineering, Korea University (2019.03 – 2025.02)
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Intern, MIIL (Multimodal Interactive Intelligence Laboratory), Korea University, Korea (2024.07 – 2025.02)  
+  * Advisor: Prof. Paul Hongsuck Seo  
+* Research Intern, AI Lab, Korea University, Korea (2024.01 – 2024.06)  
+  * Advisor: Prof. Dongsuk Yook
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+Awards & Honors
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+* Grand Prize, Yongin City SW/AI Hackathon (2023)  
+* 1st Place (Private Leaderboard), Dacon Twitter Sentiment Analysis Challenge
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Teaching Assistant, Korea University COSE474 Deep Learning (Spring 2025)  
+* Instructor, DLAB Coding Academy (2022.12 – 2023.02)
+
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* President, Classical Guitar Club, Korea University (2019.12 – 2020.12)
