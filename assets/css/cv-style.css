@@ -233,3 +233,17 @@
     background-color: transparent;
   }
 }
+
+
+
+.author__urls li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+  color: inherit;
+  font-size: 0.9rem;
+}
+
+.author__urls i {
+  margin-right: 8px;
+}
