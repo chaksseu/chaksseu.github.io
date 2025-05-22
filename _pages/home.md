@@ -15,17 +15,17 @@ My research interests lie in the field of multimodal generative models, with a p
 
 ## Education
 
-* M.S. in Computer Science and Engineering, Korea University (2025.03 – Present)  
+* <b>M.S</b>. in Computer Science and Engineering, Korea University (2025.03 – Present)  
   * Advisor: Prof. Paul Hongsuck Seo  
-* B.S. in Computer Science and Engineering, Korea University (2019.03 – 2025.02)
+* <b>B.S</b>. in Computer Science and Engineering, Korea University (2019.03 – 2025.02)
 
 <hr>
 
 ## Experiences
 
-* Research Intern, MIIL, Korea University (2024.07 – 2025.02)  
+* <b>Research Intern</b>, MIIL, Korea University (2024.07 – 2025.02)  
   * Advisor: Prof. Paul Hongsuck Seo  
-* Research Intern, AI Lab, Korea University (2024.01 – 2024.06)  
+* <b>Research Intern</b>, AI Lab, Korea University (2024.01 – 2024.06)  
   * Advisor: Prof. Dongsuk Yook
 
 <hr>
@@ -45,18 +45,18 @@ My research interests lie in the field of multimodal generative models, with a p
 
 ## Honors and Awards
 
-* Grand Prize, Yongin City SW/AI Hackathon (2023)  
-* 1st Place (Private Leaderboard), Dacon Twitter Sentiment Analysis Challenge
+* <b>Grand Prize</b>, Yongin City SW/AI Hackathon (2023)  
+* <b>1st Place (Private Leaderboard)</b>, Dacon Twitter Sentiment Analysis Challenge
 
 <hr>
 
 ## Teaching
 
-* Teaching Assistant, Korea University COSE474 Deep Learning (Spring 2025)  
-* Instructor, DLAB Coding Academy (2022.12 – 2023.02)
+* <b>Teaching Assistant</b>, Korea University COSE474 Deep Learning (Spring 2025)  
+* <b>Instructor</b>, DLAB Coding Academy (2022.12 – 2023.02)
 
 <hr>
 
 ## Service and Leadership
 
-* President, Classical Guitar Club, Korea University (2019.12 – 2020.12)
+* <b>President</b>, Classical Guitar Club, Korea University (2019.12 – 2020.12)
