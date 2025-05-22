@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Geonhee Han"
+title: ""
 author_profile: true
 layout: single
 ---
 
 {% include base_path %}
-
-## About Me
 
 I am a master's student in the Department of Computer Science and Engineering at Korea University, working in the [Multimodal Interactive Intelligence Laboratory (MIIL)](https://miil.korea.ac.kr/) under the supervision of Prof. Paul Hongsuck Seo.
 
@@ -35,13 +33,13 @@ My research interests lie in the field of multimodal generative models, with a p
 ## Publications
 
 * <a href="https://example.com/dgmo_paper" target="_blank">DGMO: Training-Free Audio Source Separation through Diffusion-Guided Mask Optimization</a>  
-  Geonyoung Lee*, Geonhee Han*, Paul Hongsuck Seo. (2025). *Interspeech 2025*. (* equal contribution)
+  Geonyoung Lee*, <b>Geonhee Han*</b>, Paul Hongsuck Seo. (2025). *Interspeech 2025*. (* equal contribution)
 
 * <a href="https://dohyun-as.github.io/Random-Conditioning/" target="_blank">Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression</a>  
-  Dohyun Kim, Sehwan Park, Geonhee Han, Seung Wook Kim, Paul Hongsuck Seo. (2025). *CVPR 2025*.
+  Dohyun Kim, Sehwan Park, <b>Geonhee Han</b>, Seung Wook Kim, Paul Hongsuck Seo. (2025). *CVPR 2025*.
 
 * <a href="https://ai.korea.ac.kr/demo-cyclediffusion-vc/" target="_blank">CycleDiffusion: Voice Conversion Using Cycle-Consistent Diffusion Models</a>  
-  Dongsuk Yook, Geonhee Han, Hyung-Pil Chang, In-Chul Yoo. (2024). *Applied Sciences*, 14(20), 9595.
+  Dongsuk Yook, <b>Geonhee Han</b>, Hyung-Pil Chang, In-Chul Yoo. (2024). *Applied Sciences*, 14(20), 9595.
 
 <hr>
 
