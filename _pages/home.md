@@ -21,7 +21,7 @@ My research interests lie in the field of multimodal generative models, with a p
 
 <hr>
 
-## Experience
+## Experiences
 
 * Research Intern, MIIL, Korea University (2024.07 – 2025.02)  
   * Advisor: Prof. Paul Hongsuck Seo  
@@ -43,7 +43,7 @@ My research interests lie in the field of multimodal generative models, with a p
 
 <hr>
 
-## Awards & Honors
+## Honors and Awards
 
 * Grand Prize, Yongin City SW/AI Hackathon (2023)  
 * 1st Place (Private Leaderboard), Dacon Twitter Sentiment Analysis Challenge
