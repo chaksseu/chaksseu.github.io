@@ -32,14 +32,16 @@ My research interests are in multimodal generative models, particularly diffusio
 
 ## Publications
 
-* <a href="https://example.com/dgmo_paper" target="_blank">DGMO: Training-Free Audio Source Separation through Diffusion-Guided Mask Optimization</a>  
-  Geonyoung Lee<sup>*</sup>, <b>Geonhee Han<sup>*</sup></b>, Paul Hongsuck Seo. (2025). <i>Interspeech 2025</i>. (* Equal contribution)
+* <a href="https://example.com/dgmo_paper" target="_blank" rel="noopener noreferrer">DGMO: Training-Free Audio Source Separation through Diffusion-Guided Mask Optimization</a>  
+  Geonyoung Lee<sup>*</sup>, <b>Geonhee Han</b><sup>*</sup>, Paul Hongsuck Seo. (2025). <i>Interspeech 2025</i>.
 
-* <a href="https://dohyun-as.github.io/Random-Conditioning/" target="_blank">Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression</a>  
-  Dohyun Kim<sup>*</sup>, Sehwan Park<sup>*</sup>, <b>Geonhee Han</b>, Seung Wook Kim, Paul Hongsuck Seo. (2025). <i>CVPR 2025</i>. (* Equal contribution)
+* <a href="https://dohyun-as.github.io/Random-Conditioning/" target="_blank" rel="noopener noreferrer">Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression</a>  
+  Dohyun Kim<sup>*</sup>, Sehwan Park<sup>*</sup>, <b>Geonhee Han</b>, Seung Wook Kim, Paul Hongsuck Seo. (2025). <i>CVPR 2025</i>.
 
-* <a href="https://ai.korea.ac.kr/demo-cyclediffusion-vc/" target="_blank">CycleDiffusion: Voice Conversion Using Cycle-Consistent Diffusion Models</a>  
-  Dongsuk Yook, <b>Geonhee Han</b>, Hyung-Pil Chang, In-Chul Yoo. (2024). <i>Applied Sciences, 14(20), 9595.</i>
+* <a href="https://ai.korea.ac.kr/demo-cyclediffusion-vc/" target="_blank" rel="noopener noreferrer">CycleDiffusion: Voice Conversion Using Cycle-Consistent Diffusion Models</a>  
+  Dongsuk Yook, <b>Geonhee Han</b>, Hyung-Pil Chang, In-Chul Yoo. (2024). <i>Applied Sciences, 14(20), 9595</i>.
+
+<br><sup>*</sup> Equal contribution
 
 <hr>
 
