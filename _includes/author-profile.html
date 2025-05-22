@@ -37,7 +37,12 @@
       <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
       {% endif %} -->
       {% if author.email %}
-      <li><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ author.email }}</li>
+      <li>
+        <span style="display: inline-block; width: 1.25em;">
+          <i class="fas fa-fw fa-envelope" aria-hidden="true"></i>
+        </span>
+        <span style="vertical-align: middle;">{{ author.email }}</span>
+      </li>
       {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
