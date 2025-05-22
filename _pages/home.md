@@ -15,17 +15,17 @@ My research interests lie in the field of multimodal generative models, with a p
 
 ## Education
 
-* <b>M.S</b>. in Computer Science and Engineering, Korea University (2025.03 – Present)  
+* <b>M.S</b>. in Computer Science and Engineering, Korea University (Mar. 2025 – Present)  
   * Advisor: Prof. Paul Hongsuck Seo  
-* <b>B.S</b>. in Computer Science and Engineering, Korea University (2019.03 – 2025.02)
+* <b>B.S</b>. in Computer Science and Engineering, Korea University (Mar. 2019 – Feb. 2025)
 
 <hr>
 
 ## Experiences
 
-* <b>Research Intern</b>, MIIL, Korea University (2024.07 – 2025.02)  
+* <b>Research Intern</b>, MIIL, Korea University (Jul. 2024 – Feb. 2025)  
   * Advisor: Prof. Paul Hongsuck Seo  
-* <b>Research Intern</b>, AI Lab, Korea University (2024.01 – 2024.06)  
+* <b>Research Intern</b>, AI Lab, Korea University (Jan. 2024 – Jun. 2024)  
   * Advisor: Prof. Dongsuk Yook
 
 <hr>
@@ -33,10 +33,10 @@ My research interests lie in the field of multimodal generative models, with a p
 ## Publications
 
 * <a href="https://example.com/dgmo_paper" target="_blank">DGMO: Training-Free Audio Source Separation through Diffusion-Guided Mask Optimization</a>  
-  Geonyoung Lee*, <b>Geonhee Han*</b>, Paul Hongsuck Seo. (2025). *Interspeech 2025*. (* equal contribution)
+  Geonyoung Lee*, <b>Geonhee Han*</b>, Paul Hongsuck Seo. (2025). *Interspeech 2025*. (* Equal contribution)
 
 * <a href="https://dohyun-as.github.io/Random-Conditioning/" target="_blank">Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression</a>  
-  Dohyun Kim, Sehwan Park, <b>Geonhee Han</b>, Seung Wook Kim, Paul Hongsuck Seo. (2025). *CVPR 2025*.
+  Dohyun Kim*, Sehwan Park*, <b>Geonhee Han</b>, Seung Wook Kim, Paul Hongsuck Seo. (2025). *CVPR 2025*. (* Equal contribution)
 
 * <a href="https://ai.korea.ac.kr/demo-cyclediffusion-vc/" target="_blank">CycleDiffusion: Voice Conversion Using Cycle-Consistent Diffusion Models</a>  
   Dongsuk Yook, <b>Geonhee Han</b>, Hyung-Pil Chang, In-Chul Yoo. (2024). *Applied Sciences*, 14(20), 9595.
@@ -46,17 +46,17 @@ My research interests lie in the field of multimodal generative models, with a p
 ## Honors and Awards
 
 * <b>Grand Prize</b>, Yongin City SW/AI Hackathon (2023)  
-* <b>1st Place (Private Leaderboard)</b>, Dacon Twitter Sentiment Analysis Challenge
+* <b>1st Place - Private Leaderboard</b>, Dacon Twitter Sentiment Analysis Challenge
 
 <hr>
 
 ## Teaching
 
 * <b>Teaching Assistant</b>, Korea University COSE474 Deep Learning (Spring 2025)  
-* <b>Instructor</b>, DLAB Coding Academy (2022.12 – 2023.02)
+* <b>Instructor</b>, DLAB Coding Academy (Dec. 2022 – Feb. 2023)
 
 <hr>
 
 ## Service and Leadership
 
-* <b>President</b>, Classical Guitar Club, Korea University (2019.12 – 2020.12)
+* <b>President</b>, Classical Guitar Club, Korea University (Jan. 2020 – Dec. 2020)
