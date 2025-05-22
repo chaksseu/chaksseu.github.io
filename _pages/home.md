@@ -33,10 +33,10 @@ My research interests are in multimodal generative models, particularly diffusio
 ## Publications
 
 * <a href="https://example.com/dgmo_paper" target="_blank">DGMO: Training-Free Audio Source Separation through Diffusion-Guided Mask Optimization</a>  
-  Geonyoung Lee*, <b>Geonhee Han*</b>, Paul Hongsuck Seo. (2025). *Interspeech 2025*. (* equal contribution)
+  *Geonyoung Lee, <b>*Geonhee Han</b>, Paul Hongsuck Seo. (2025). *Interspeech 2025*. (* equal contribution)
 
 * <a href="https://dohyun-as.github.io/Random-Conditioning/" target="_blank">Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression</a>  
-  Dohyun Kim*, Sehwan Park*, <b>Geonhee Han</b>, Seung Wook Kim, Paul Hongsuck Seo. (2025). *CVPR 2025*. (* equal contribution)
+  *Dohyun Kim, *Sehwan Park, <b>Geonhee Han</b>, Seung Wook Kim, Paul Hongsuck Seo. (2025). *CVPR 2025*. (* equal contribution)
 
 * <a href="https://ai.korea.ac.kr/demo-cyclediffusion-vc/" target="_blank">CycleDiffusion: Voice Conversion Using Cycle-Consistent Diffusion Models</a>  
   Dongsuk Yook, <b>Geonhee Han</b>, Hyung-Pil Chang, In-Chul Yoo. (2024). *Applied Sciences*, 14(20), 9595.
