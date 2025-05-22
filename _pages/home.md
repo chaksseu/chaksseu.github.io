@@ -39,7 +39,7 @@ My research interests are in multimodal generative models, particularly diffusio
   Dohyun Kim<sup>*</sup>, Sehwan Park<sup>*</sup>, <b>Geonhee Han</b>, Seung Wook Kim, Paul Hongsuck Seo. <i>CVPR 2025</i>. (\* Equal contribution)
 
 * <a href="https://ai.korea.ac.kr/demo-cyclediffusion-vc/" target="_blank" rel="noopener noreferrer">CycleDiffusion: Voice Conversion Using Cycle-Consistent Diffusion Models</a>  
-  Dongsuk Yook, <b>Geonhee Han</b>, Hyung-Pil Chang, In-Chul Yoo. <i>Applied Sciences, 14(20), 9595</i>.
+  Dongsuk Yook, <b>Geonhee Han</b>, Hyung-Pil Chang, In-Chul Yoo. (2024). <i>Applied Sciences, 14(20), 9595</i>.
 
 <hr>
 
