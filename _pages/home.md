@@ -7,7 +7,7 @@ layout: single
 
 {% include base_path %}
 
-I am a master's student in the Department of Computer Science and Engineering at Korea University, working in the [Multimodal Interactive Intelligence Laboratory (MIIL)](https://miil.korea.ac.kr/) under the supervision of Prof. Paul Hongsuck Seo.
+I am a master's student in the Department of Computer Science and Engineering at Korea University, working in the [Multimodal Interactive Intelligence Laboratory (MIIL)](https://miil.korea.ac.kr/) under the supervision of [Prof. Paul Hongsuck Seo](https://phseo.github.io/).
 
 My research interests are in multimodal generative models, particularly diffusion-based approaches for audio-visual understanding and generation. I am broadly interested in exploring how different modalities can be aligned, fused, and generated through modern deep learning frameworks.
 
