@@ -59,12 +59,9 @@ facebook:
   publisher              :
 og_image                 : 
 social:
-  type: Person
-  name: Geonhee Han
-  links:
-    - label: "Blog"
-      icon: "fas fa-pen"
-      url: "https://chaksseu.tistory.com/"
+  type                   : Person
+  name                   : Geonhee Han
+  links: []
 
 # Analytics
 analytics:
