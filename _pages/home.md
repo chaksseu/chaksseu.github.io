@@ -59,4 +59,5 @@ My research interests are in multimodal generative models, particularly diffusio
 
 ## Service and Leadership
 
-* <b>President</b>, Classical Guitar Club, Korea University (Jan. 2020 – Dec. 2020)
+* <b>President</b>, Classical Guitar Club, Korea University (Jan. 2020 – Dec. 2020)  
+* <b>Sergeant</b>, Republic of Korea Army (Apr. 2021 – Oct. 2022), honorably discharged
