@@ -18,6 +18,10 @@ author:
   employer         : "MIIL @ Korea Univ."
   email            : "rtrt505@korea.ac.kr"
   github           : "chaksseu"
+  links:
+    - label: "Blog"
+      icon: "fas fa-blog"
+      url: "https://chaksseu.tistory.com/"
 
 # Publication Categories
 publication_category:
