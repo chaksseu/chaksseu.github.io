@@ -32,7 +32,7 @@ My research interests are in multimodal generative models, particularly diffusio
 
 ## Publications
 
-* <a href="https://wltschmrz.github.io/DGMO/" target="_blank" rel="noopener noreferrer">DGMO: Training-Free Audio Source Separation through Diffusion-Guided Mask Optimization</a> <span style="color:#822333"><b>(oral)</b></span> ![oral badge](https://img.shields.io/badge/oral-maroon?style=flat&logoColor=white&color=822333)  
+* <a href="https://wltschmrz.github.io/DGMO/" target="_blank" rel="noopener noreferrer">DGMO: Training-Free Audio Source Separation through Diffusion-Guided Mask Optimization</a> <span style="color:#000000"><b>(oral)</b></span>  
   Geonyoung Lee<sup>*</sup>, <b>Geonhee Han</b><sup>*</sup>, Paul Hongsuck Seo. <i>Interspeech 2025</i>. (\* Equal contribution)
 
 * <a href="https://dohyun-as.github.io/Random-Conditioning/" target="_blank" rel="noopener noreferrer">Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression</a>  
@@ -53,8 +53,9 @@ My research interests are in multimodal generative models, particularly diffusio
 ## Teaching
 
 * <b>Teaching Assistant</b>, COSE475 "Advanced Deep Learning", Korea University (Fall 2025)  
+* <b>Teaching Assistant</b>, "Samsung AI Expert Program" Samsung (Summer 2025)
 * <b>Teaching Assistant</b>, COSE474 "Deep Learning", Korea University (Spring 2025)  
-* <b>Instructor</b>, DLAB Coding Academy (Dec. 2022 – Feb. 2023)
+* <b>Instructor</b>, DLAB Code Academy (Dec. 2022 – Feb. 2023)
 
 <hr>
 
