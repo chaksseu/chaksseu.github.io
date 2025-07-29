@@ -32,7 +32,7 @@ My research interests are in multimodal generative models, particularly diffusio
 
 ## Publications
 
-* <a href="https://wltschmrz.github.io/DGMO/" target="_blank" rel="noopener noreferrer">DGMO: Training-Free Audio Source Separation through Diffusion-Guided Mask Optimization</a> <span style="color:#757882"><b>(oral)</b></span>  
+* <a href="https://wltschmrz.github.io/DGMO/" target="_blank" rel="noopener noreferrer">DGMO: Training-Free Audio Source Separation through Diffusion-Guided Mask Optimization</a> <span><b>(oral)</b></span>  
   Geonyoung Lee<sup>*</sup>, <b>Geonhee Han</b><sup>*</sup>, Paul Hongsuck Seo. <i>Interspeech 2025</i>. (\* Equal contribution)
 
 * <a href="https://dohyun-as.github.io/Random-Conditioning/" target="_blank" rel="noopener noreferrer">Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression</a>  
