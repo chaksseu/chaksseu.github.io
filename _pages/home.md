@@ -53,7 +53,6 @@ My research interests are in multimodal generative models, particularly diffusio
 ## Teaching
 
 * <b>Teaching Assistant</b>, COSE475 "Advanced Deep Learning", Korea University (Fall 2025)  
-* <b>Teaching Assistant</b>, Samsung AI Expert Program (Aug. 2025)  
 * <b>Teaching Assistant</b>, COSE474 "Deep Learning", Korea University (Spring 2025)  
 * <b>Instructor</b>, DLAB Code Academy (Dec. 2022 – Feb. 2023)
 
