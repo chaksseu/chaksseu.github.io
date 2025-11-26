@@ -47,7 +47,7 @@ My research interests are in multimodal generative models, particularly diffusio
 
 ### Preprint
 
-* Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos
+* <a href="https://xwsa568.github.io/DRIFT/" target="_blank" rel="noopener noreferrer">Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos</a> 
   Youngseo Kim, Dohyun Kim, <b>Geonhee Han</b>, Paul Hongsuck Seo. <i>arXiv 2025</i>.
 
 <hr>
