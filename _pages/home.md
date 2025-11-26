@@ -11,63 +11,63 @@ I am a master's student in the Department of Computer Science and Engineering at
 
 My research interests are in multimodal generative models, particularly diffusion-based approaches for audio-visual understanding and generation. I am broadly interested in exploring how different modalities can be aligned, fused, and generated through modern deep learning frameworks.
 
-<hr>
+---
 
 ## Education
 
-* <b>M.S</b>. in Computer Science and Engineering, Korea University (Mar. 2025 – Present)  
-  * Advisor: Prof. Paul Hongsuck Seo  
-* <b>B.S</b>. in Computer Science and Engineering, Korea University (Mar. 2019 – Feb. 2025)
+* **M.S.** in Computer Science and Engineering, Korea University (Mar. 2025 – Present)
+  * Advisor: Prof. Paul Hongsuck Seo
+* **B.S.** in Computer Science and Engineering, Korea University (Mar. 2019 – Feb. 2025)
 
-<hr>
+---
 
 ## Experiences
 
-* <b>Research Intern</b>, MIIL, Korea University (Jul. 2024 – Feb. 2025)  
-  * Advisor: Prof. Paul Hongsuck Seo  
-* <b>Research Intern</b>, AI Lab, Korea University (Jan. 2024 – Jun. 2024)  
-  * Advisor: Prof. Dongsuk Yook
+* **Research Intern**, MIIL, Korea University (Jul. 2024 – Feb. 2025)
+  * Advisor: Prof. Paul Hongsuck Seo
+* **Research Intern**, AI Lab, Korea University (Jan. 2024 – Jun. 2024)
+  * Advisor: Prof. Dongsuk Yook
 
-<hr>
+---
 
 ## Publications
 
 ### International Conference
 
-* <a href="https://wltschmrz.github.io/DGMO/" target="_blank" rel="noopener noreferrer">DGMO: Training-Free Audio Source Separation through Diffusion-Guided Mask Optimization</a> <span><b>(oral)</b></span>  
-  Geonyoung Lee<sup>*</sup>, <b>Geonhee Han</b><sup>*</sup>, Paul Hongsuck Seo. <i>Interspeech 2025</i>. (\* Equal contribution)
+* <a href="https://wltschmrz.github.io/DGMO/" target="_blank" rel="noopener noreferrer">DGMO: Training-Free Audio Source Separation through Diffusion-Guided Mask Optimization</a> **(oral)** <br>
+  Geonyoung Lee\*, **Geonhee Han**\*, Paul Hongsuck Seo. *Interspeech 2025*. (\* Equal contribution)
 
-* <a href="https://dohyun-as.github.io/Random-Conditioning/" target="_blank" rel="noopener noreferrer">Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression</a>  
-  Dohyun Kim<sup>*</sup>, Sehwan Park<sup>*</sup>, <b>Geonhee Han</b>, Seung Wook Kim, Paul Hongsuck Seo. <i>CVPR 2025</i>. (\* Equal contribution)
+* <a href="https://dohyun-as.github.io/Random-Conditioning/" target="_blank" rel="noopener noreferrer">Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression</a> <br>
+  Dohyun Kim\*, Sehwan Park\*, **Geonhee Han**, Seung Wook Kim, Paul Hongsuck Seo. *CVPR 2025*. (\* Equal contribution)
 
 ### International Journal
 
-* <a href="https://ai.korea.ac.kr/demo-cyclediffusion-vc/" target="_blank" rel="noopener noreferrer">CycleDiffusion: Voice Conversion Using Cycle-Consistent Diffusion Models</a>  
-  Dongsuk Yook, <b>Geonhee Han</b>, Hyung-Pil Chang, In-Chul Yoo. (2024). <i>Applied Sciences, 14(20), 9595</i>.
+* <a href="https://ai.korea.ac.kr/demo-cyclediffusion-vc/" target="_blank" rel="noopener noreferrer">CycleDiffusion: Voice Conversion Using Cycle-Consistent Diffusion Models</a> <br>
+  Dongsuk Yook, **Geonhee Han**, Hyung-Pil Chang, In-Chul Yoo. (2024). *Applied Sciences, 14(20), 9595*.
 
 ### Preprint
 
-* <a href="https://xwsa568.github.io/DRIFT/" target="_blank" rel="noopener noreferrer">Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos</a> 
-  Youngseo Kim, Dohyun Kim, <b>Geonhee Han</b>, Paul Hongsuck Seo. <i>arXiv 2025</i>.
+* <a href="https://xwsa568.github.io/DRIFT/" target="_blank" rel="noopener noreferrer">Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos</a> <br>
+  Youngseo Kim, Dohyun Kim, **Geonhee Han**, Paul Hongsuck Seo. *arXiv 2025*.
 
-<hr>
+---
 
 ## Honors and Awards
 
-* <b>Grand Prize</b>, Yongin City SW/AI Hackathon (2023)  
-* <b>1st Place - Private Leaderboard</b>, Dacon Twitter Sentiment Analysis Challenge (2023)
+* **Grand Prize**, Yongin City SW/AI Hackathon (2023)
+* **1st Place - Private Leaderboard**, Dacon Twitter Sentiment Analysis Challenge (2023)
 
-<hr>
+---
 
 ## Teaching
 
-* <b>Teaching Assistant</b>, COSE475 "Advanced Deep Learning", Korea University (Fall 2025)  
-* <b>Teaching Assistant</b>, COSE474 "Deep Learning", Korea University (Spring 2025)  
-* <b>Instructor</b>, DLAB Code Academy (Dec. 2022 – Feb. 2023)
+* **Teaching Assistant**, COSE475 "Advanced Deep Learning", Korea University (Fall 2025)
+* **Teaching Assistant**, COSE474 "Deep Learning", Korea University (Spring 2025)
+* **Instructor**, DLAB Code Academy (Dec. 2022 – Feb. 2023)
 
-<hr>
+---
 
 ## Service and Leadership
 
-* <b>Sergeant</b>, Republic of Korea Army (Apr. 2021 – Oct. 2022), honorably discharged
-* <b>President</b>, Classical Guitar Club, Korea University (Jan. 2020 – Dec. 2020)
+* **Sergeant**, Republic of Korea Army (Apr. 2021 – Oct. 2022), honorably discharged
+* **President**, Classical Guitar Club, Korea University (Jan. 2020 – Dec. 2020)
