@@ -7,15 +7,14 @@ layout: single
 
 {% include base_path %}
 
-<span style="font-size:1.2em;">Hello! I am **Geonhee Han**.</span>
+<span style="font-size:1.2em;">Hello! I am **Geonhee Han (한건희)**.</span>
 
 I am a master's student in the Department of Computer Science and Engineering at **Korea University**, working in the [Multimodal Interactive Intelligence Laboratory (MIIL)](https://miil.korea.ac.kr/) under the supervision of [Prof. Paul Hongsuck Seo](https://phseo.github.io/).
 
 My research focuses on advancing **Multimodal Generative AI**, particularly by exploring how different modalities can be effectively unified and synthesized. My core interests lie in:
 * **Multimodal Generative Models**
 * **Audio-Visual Understanding via Diffusion Models**
-* **Efficient Generative AI** (e.g., resource-efficient training and model compression)
-
+* **Efficient Generative AI** (e.g., model compression and data-efficient training)
 
 ---
 
@@ -30,48 +29,44 @@ My research focuses on advancing **Multimodal Generative AI**, particularly by e
 
 ### Preprint
 
-* **Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos** <br>
-    Youngseo Kim, Dohyun Kim, **Geonhee Han**, Paul Hongsuck Seo <br>
-    *arXiv 2025* <br>
-    [[Project Page]](https://xwsa568.github.io/DRIFT/) [[arXiv]](https://arxiv.org/abs/2511.19936)
+* **[Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos](https://xwsa568.github.io/DRIFT/)** <br>
+  Youngseo Kim, Dohyun Kim, **Geonhee Han**, Paul Hongsuck Seo <br>
+  *arXiv 2025* <br>
 
 ### International Conference
 
-* **DGMO: Training-Free Audio Source Separation through Diffusion-Guided Mask Optimization** <br>
-    Geonyoung Lee\*, **Geonhee Han**\*, Paul Hongsuck Seo (\* Equal contribution) <br>
-    *Interspeech 2025* <span style="color:red; font-weight:bold;">(Oral Presentation)</span> <br>
-    [[Project Page]](https://wltschmrz.github.io/DGMO/) [[Paper]](https://arxiv.org/abs/2506.02858)
+* **[DGMO: Training-Free Audio Source Separation through Diffusion-Guided Mask Optimization](https://wltschmrz.github.io/DGMO/)** <br>
+  Geonyoung Lee\*, **Geonhee Han**\*, Paul Hongsuck Seo (\* Equal contribution) <br>
+  *Interspeech 2025* <span style="color:crimson; font-weight:bold;">(Oral Presentation)</span> <br>
 
-* **Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression** <br>
-    Dohyun Kim\*, Sehwan Park\*, **Geonhee Han**, Seung Wook Kim, Paul Hongsuck Seo (\* Equal contribution) <br>
-    *CVPR 2025* <br>
-    [[Project Page]](https://dohyun-as.github.io/Random-Conditioning/) [[Paper]](https://arxiv.org/abs/2504.02011)
+* **[Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression](https://dohyun-as.github.io/Random-Conditioning/)** <br>
+  Dohyun Kim\*, Sehwan Park\*, **Geonhee Han**, Seung Wook Kim, Paul Hongsuck Seo (\* Equal contribution) <br>
+  *CVPR 2025* <br>
 
 ### International Journal
 
-* **CycleDiffusion: Voice Conversion Using Cycle-Consistent Diffusion Models** <br>
-    Dongsuk Yook, **Geonhee Han**, Hyung-Pil Chang, In-Chul Yoo <br>
-    *Applied Sciences, 14(20), 9595 (2024)* <br>
-    [[Project Page]](https://ai.korea.ac.kr/demo-cyclediffusion-vc/) [[Paper]](https://www.mdpi.com/2076-3417/14/20/9595)
+* **[CycleDiffusion: Voice Conversion Using Cycle-Consistent Diffusion Models](https://ai.korea.ac.kr/demo-cyclediffusion-vc/)** <br>
+  Dongsuk Yook, **Geonhee Han**, Hyung-Pil Chang, In-Chul Yoo <br>
+  *Applied Sciences, 14(20), 9595 (2024)* <br>
 
 ---
 
 ## 🎓 Education
 
 * **Korea University** (Mar. 2025 – Present)
-    * M.S. in Computer Science and Engineering
-    * Advisor: Prof. Paul Hongsuck Seo
+  * M.S. in Computer Science and Engineering
+  * Advisor: Prof. Paul Hongsuck Seo
 * **Korea University** (Mar. 2019 – Feb. 2025)
-    * B.S. in Computer Science and Engineering
+  * B.S. in Computer Science and Engineering
 
 ---
 
 ## 💻 Experiences
 
 * **Multimodal Interactive Intelligence Lab (MIIL), Korea Univ.** (Jul. 2024 – Feb. 2025)
-    * *Research Intern* (Advisor: Prof. Paul Hongsuck Seo)
+  * *Research Intern* (Advisor: Prof. Paul Hongsuck Seo)
 * **AI Lab, Korea Univ.** (Jan. 2024 – Jun. 2024)
-    * *Research Intern* (Advisor: Prof. Dongsuk Yook)
+  * *Research Intern* (Advisor: Prof. Dongsuk Yook)
 
 ---
 
@@ -93,5 +88,5 @@ My research focuses on advancing **Multimodal Generative AI**, particularly by e
 ## 🎖 Service and Leadership
 
 * **Sergeant**, Republic of Korea Army (Apr. 2021 – Oct. 2022)
-    * Honorably discharged
+  * Honorably discharged
 * **President**, Classical Guitar Club, Korea University (Jan. 2020 – Dec. 2020)
