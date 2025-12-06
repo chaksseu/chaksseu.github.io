@@ -32,6 +32,11 @@ My research interests are in multimodal generative models, particularly diffusio
 
 ## Publications
 
+### Preprint
+
+* <a href="https://xwsa568.github.io/DRIFT/" target="_blank" rel="noopener noreferrer">Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos</a> <br>
+  Youngseo Kim, Dohyun Kim, **Geonhee Han**, Paul Hongsuck Seo. *arXiv 2025*.
+  
 ### International Conference
 
 * <a href="https://wltschmrz.github.io/DGMO/" target="_blank" rel="noopener noreferrer">DGMO: Training-Free Audio Source Separation through Diffusion-Guided Mask Optimization</a> **(oral)** <br>
@@ -44,11 +49,6 @@ My research interests are in multimodal generative models, particularly diffusio
 
 * <a href="https://ai.korea.ac.kr/demo-cyclediffusion-vc/" target="_blank" rel="noopener noreferrer">CycleDiffusion: Voice Conversion Using Cycle-Consistent Diffusion Models</a> <br>
   Dongsuk Yook, **Geonhee Han**, Hyung-Pil Chang, In-Chul Yoo. (2024). *Applied Sciences, 14(20), 9595*.
-
-### Preprint
-
-* <a href="https://xwsa568.github.io/DRIFT/" target="_blank" rel="noopener noreferrer">Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos</a> <br>
-  Youngseo Kim, Dohyun Kim, **Geonhee Han**, Paul Hongsuck Seo. *arXiv 2025*.
 
 ---
 
