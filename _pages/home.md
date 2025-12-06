@@ -7,67 +7,91 @@ layout: single
 
 {% include base_path %}
 
-I am a master's student in the Department of Computer Science and Engineering at Korea University, working in the [Multimodal Interactive Intelligence Laboratory (MIIL)](https://miil.korea.ac.kr/) under the supervision of [Prof. Paul Hongsuck Seo](https://phseo.github.io/).
+<span style="font-size:1.2em;">Hello! I am **Geonhee Han**.</span>
 
-My research interests are in multimodal generative models, particularly diffusion-based approaches for audio-visual understanding and generation. I am broadly interested in exploring how different modalities can be aligned, fused, and generated through modern deep learning frameworks.
+I am a master's student in the Department of Computer Science and Engineering at **Korea University**, working in the [Multimodal Interactive Intelligence Laboratory (MIIL)](https://miil.korea.ac.kr/) under the supervision of [Prof. Paul Hongsuck Seo](https://phseo.github.io/).
 
----
+My research focuses on advancing **Multimodal Generative AI**, particularly by exploring how different modalities can be effectively unified and synthesized. My core interests lie in:
+* **Multimodal Generative Models**
+* **Audio-Visual Understanding via Diffusion Models**
+* **Efficient Generative AI** (e.g., resource-efficient training and model compression)
 
-## Education
-
-* **M.S.** in Computer Science and Engineering, Korea University (Mar. 2025 – Present)
-  * Advisor: Prof. Paul Hongsuck Seo
-* **B.S.** in Computer Science and Engineering, Korea University (Mar. 2019 – Feb. 2025)
 
 ---
 
-## Experiences
-
-* **Research Intern**, MIIL, Korea University (Jul. 2024 – Feb. 2025)
-  * Advisor: Prof. Paul Hongsuck Seo
-* **Research Intern**, AI Lab, Korea University (Jan. 2024 – Jun. 2024)
-  * Advisor: Prof. Dongsuk Yook
+## 🔥 News
+* **[Jun. 2025]** One paper on Audio Source Separation has been accepted to **Interspeech 2025** as an **Oral Presentation**! 🎤
+* **[Mar. 2025]** Started M.S. at Korea University under Prof. Paul Hongsuck Seo.
+* **[Feb. 2025]** One paper on Diffusion Model Compression has been accepted to **CVPR 2025**. 🎉
 
 ---
 
-## Publications
+## 📝 Publications
 
 ### Preprint
 
-* <a href="https://xwsa568.github.io/DRIFT/" target="_blank" rel="noopener noreferrer">Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos</a> <br>
-  Youngseo Kim, Dohyun Kim, **Geonhee Han**, Paul Hongsuck Seo. *arXiv 2025*.
-  
+* **Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos** <br>
+    Youngseo Kim, Dohyun Kim, **Geonhee Han**, Paul Hongsuck Seo <br>
+    *arXiv 2025* <br>
+    [[Project Page]](https://xwsa568.github.io/DRIFT/) [[arXiv]](https://arxiv.org/abs/2511.19936)
+
 ### International Conference
 
-* <a href="https://wltschmrz.github.io/DGMO/" target="_blank" rel="noopener noreferrer">DGMO: Training-Free Audio Source Separation through Diffusion-Guided Mask Optimization</a> **(Oral)** <br>
-  Geonyoung Lee\*, **Geonhee Han**\*, Paul Hongsuck Seo. *Interspeech 2025*. (\* Equal contribution)
+* **DGMO: Training-Free Audio Source Separation through Diffusion-Guided Mask Optimization** <br>
+    Geonyoung Lee\*, **Geonhee Han**\*, Paul Hongsuck Seo (\* Equal contribution) <br>
+    *Interspeech 2025* <span style="color:red; font-weight:bold;">(Oral Presentation)</span> <br>
+    [[Project Page]](https://wltschmrz.github.io/DGMO/) [[Paper]](https://arxiv.org/abs/2506.02858)
 
-* <a href="https://dohyun-as.github.io/Random-Conditioning/" target="_blank" rel="noopener noreferrer">Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression</a> <br>
-  Dohyun Kim\*, Sehwan Park\*, **Geonhee Han**, Seung Wook Kim, Paul Hongsuck Seo. *CVPR 2025*. (\* Equal contribution)
+* **Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression** <br>
+    Dohyun Kim\*, Sehwan Park\*, **Geonhee Han**, Seung Wook Kim, Paul Hongsuck Seo (\* Equal contribution) <br>
+    *CVPR 2025* <br>
+    [[Project Page]](https://dohyun-as.github.io/Random-Conditioning/) [[Paper]](https://arxiv.org/abs/2504.02011)
 
 ### International Journal
 
-* <a href="https://ai.korea.ac.kr/demo-cyclediffusion-vc/" target="_blank" rel="noopener noreferrer">CycleDiffusion: Voice Conversion Using Cycle-Consistent Diffusion Models</a> <br>
-  Dongsuk Yook, **Geonhee Han**, Hyung-Pil Chang, In-Chul Yoo. (2024). *Applied Sciences, 14(20), 9595*.
+* **CycleDiffusion: Voice Conversion Using Cycle-Consistent Diffusion Models** <br>
+    Dongsuk Yook, **Geonhee Han**, Hyung-Pil Chang, In-Chul Yoo <br>
+    *Applied Sciences, 14(20), 9595 (2024)* <br>
+    [[Project Page]](https://ai.korea.ac.kr/demo-cyclediffusion-vc/) [[Paper]](https://www.mdpi.com/2076-3417/14/20/9595)
 
 ---
 
-## Honors and Awards
+## 🎓 Education
+
+* **Korea University** (Mar. 2025 – Present)
+    * M.S. in Computer Science and Engineering
+    * Advisor: Prof. Paul Hongsuck Seo
+* **Korea University** (Mar. 2019 – Feb. 2025)
+    * B.S. in Computer Science and Engineering
+
+---
+
+## 💻 Experiences
+
+* **Multimodal Interactive Intelligence Lab (MIIL), Korea Univ.** (Jul. 2024 – Feb. 2025)
+    * *Research Intern* (Advisor: Prof. Paul Hongsuck Seo)
+* **AI Lab, Korea Univ.** (Jan. 2024 – Jun. 2024)
+    * *Research Intern* (Advisor: Prof. Dongsuk Yook)
+
+---
+
+## 🏆 Honors and Awards
 
 * **Grand Prize**, Yongin City SW/AI Hackathon (2023)
-* **1st Place - Private Leaderboard**, Dacon Twitter Sentiment Analysis Challenge (2023)
+* **1st Place (Private LB)**, Dacon Twitter Sentiment Analysis Challenge (2023)
 
 ---
 
-## Teaching
+## 🏫 Teaching
 
-* **Teaching Assistant**, COSE475 "Advanced Deep Learning", Korea University (Fall 2025)
-* **Teaching Assistant**, COSE474 "Deep Learning", Korea University (Spring 2025)
+* **Teaching Assistant**, COSE475 "Advanced Deep Learning", Korea Univ. (Fall 2025)
+* **Teaching Assistant**, COSE474 "Deep Learning", Korea Univ. (Spring 2025)
 * **Instructor**, DLAB Code Academy (Dec. 2022 – Feb. 2023)
 
 ---
 
-## Service and Leadership
+## 🎖 Service and Leadership
 
-* **Sergeant**, Republic of Korea Army (Apr. 2021 – Oct. 2022), honorably discharged
+* **Sergeant**, Republic of Korea Army (Apr. 2021 – Oct. 2022)
+    * Honorably discharged
 * **President**, Classical Guitar Club, Korea University (Jan. 2020 – Dec. 2020)
