@@ -10,15 +10,19 @@ baseurl                  : ""
 repository               : "chaksseu/chaksseu.github.io"
 
 # Site Author - Sidebar Profile
+
 author:
-  avatar           : "gh_profile.png"
-  name             : "Geonhee Han"
-  bio              : "Deep Learning Researcher"
-  location         : "Seoul, Korea"
-  employer         : "MIIL @ Korea Univ."
-  email            : "rtrt505@korea.ac.kr"
-  googlescholar    : "https://scholar.google.com/citations?user=gnyFUtAAAAAJ&hl"
-  github           : "chaksseu"
+  avatar        : "gh_profile.png"
+  name          : "Geonhee Han"
+  bio           : "Deep Learning Researcher"
+
+  employer      : "MIIL @ Korea Univ."
+  location      : "Seoul, Korea"
+
+  email         : "rtrt505@korea.ac.kr"
+
+  googlescholar : "https://scholar.google.com/citations?user=gnyFUtAAAAAJ&hl=en"
+  github        : "chaksseu"
 
 
 # Publication Categories
