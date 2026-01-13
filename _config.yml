@@ -17,11 +17,9 @@ author:
   location         : "Seoul, Korea"
   employer         : "MIIL @ Korea Univ."
   email            : "rtrt505@korea.ac.kr"
-  links:
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar"   # 아이콘이 없으면 아래 2) 참고
-      url: "https://scholar.google.com/citations?gnyFUtAAAAAJ&hl"
+  googlescholar    : "https://scholar.google.com/citations?user=gnyFUtAAAAAJ&hl"
   github           : "chaksseu"
+
 
 # Publication Categories
 publication_category:
