@@ -12,8 +12,8 @@ layout: single
 I am a master's student in the Department of Computer Science and Engineering at **Korea University**, working in the [Multimodal Interactive Intelligence Laboratory (MIIL)](https://miil.korea.ac.kr/) under the supervision of [Prof. Paul Hongsuck Seo](https://phseo.github.io/).
 
 My research focuses on advancing **Multimodal Generative AI**, particularly by exploring how different modalities can be effectively unified and synthesized. My core interests lie in:
+* **Multimodal Representation Learning**
 * **Multimodal Generative Models**
-* **Audio-Visual Understanding via Diffusion Models**
 * **Efficient Generative AI** (e.g., model compression and data-efficient training)
 
 ---
