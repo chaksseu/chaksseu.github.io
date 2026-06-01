@@ -12,7 +12,8 @@ repository               : "chaksseu/chaksseu.github.io"
 # Site Author - Sidebar Profile
 
 author:
-  avatar        : "gh_profile.jpg"
+  # avatar        : "gh_profile.jpg"
+  avatar        : "interspeech2025_dgmo_oral_presentation2.jpg"
   name          : "Geonhee Han"
   bio           : "Deep Learning Researcher"
 
