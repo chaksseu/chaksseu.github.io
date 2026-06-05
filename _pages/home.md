@@ -71,10 +71,14 @@ My research focuses on advancing **Multimodal Generative AI**, particularly by e
 
 ---
 
+```md
 ## 🏆 Honors and Awards
 
+* **AI Seoul Tech Graduate Scholarship** (2026)
 * **Grand Prize**, Yongin City SW/AI Hackathon (2023)
-* **1st Place (Private LB)**, Dacon Twitter Sentiment Analysis Challenge (2023)
+* **1st Place**, Dacon Twitter Sentiment Analysis Challenge -- Private Leaderboard (2023)
+```
+
 
 ---
 
