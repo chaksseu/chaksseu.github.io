@@ -74,10 +74,10 @@ My research focuses on advancing **Multimodal Generative AI**, particularly by e
 
 ## 🏆 Honors and Awards
 
-* **AI Seoul Tech Graduate Scholarship** (2026)
+* **Junior Fellowship Research Grant (JFR)**, Korea University (2026)
+* **AI Seoul Tech Graduate Scholarship**, Seoul Future Foundation (2026)
 * **Grand Prize**, Yongin City SW/AI Hackathon (2023)
 * **1st Place**, Dacon Twitter Sentiment Analysis Challenge -- Private Leaderboard (2023)
-
 
 ---
 
