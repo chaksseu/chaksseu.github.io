@@ -18,12 +18,6 @@ My research focuses on advancing **Multimodal Generative AI**, particularly by e
 
 ---
 
-## 🔥 News
-* **[Jun. 2026]** Selected as a recipient of the **AI Seoul Tech Graduate Scholarship** by the **Seoul Future Foundation**. 🎓
-* **[Jun. 2025]** One paper on Audio Source Separation has been accepted to **Interspeech 2025** as an **Oral Presentation**! 🎤
-
----
-
 ## 📝 Publications
 
 ### Preprint
