@@ -13,7 +13,6 @@ I am a master's student in the Department of Computer Science and Engineering at
 
 My research focuses on advancing **Multimodal Generative AI**, particularly by exploring how different modalities can be effectively unified and synthesized. My core interests lie in:
 * **Multimodal Generative Models**
-* **Speech and Audio Processing**
 * **Multimodal Representation Learning**
 * **Efficient Generative AI** (e.g., model compression and data-efficient training)
 
