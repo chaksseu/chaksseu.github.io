@@ -29,7 +29,7 @@ My research focuses on advancing **Multimodal Generative AI**, particularly by e
 ### International Conference
 
 * **[Compositional SVG Generation via VLM-Driven Hierarchical Semantic Parsing](https://chaksseu.github.io/)** <br>
-  Sehwan Park, Taehoon Kim, **Geonhee Han**, Dohyun Kim, Seung Wook Kim, Paul Hongsuck Seo<br>
+  Sehwan Park\*, Taehoon Kim\*, **Geonhee Han**, Dohyun Kim, Seung Wook Kim, Paul Hongsuck Seo (\* Equal contribution) <br>
   *EMNLP 2026* <span style="color:crimson; font-weight:bold;"></span> <br>
 
 * **[DGMO: Training-Free Audio Source Separation through Diffusion-Guided Mask Optimization](https://wltschmrz.github.io/DGMO/)** <br>
@@ -70,8 +70,8 @@ My research focuses on advancing **Multimodal Generative AI**, particularly by e
 
 ## 🏆 Honors and Awards
 
-* **Junior Fellowship Research Grant**, Korea University (2026)
 * **AI Seoul Tech Graduate Scholarship**, Seoul Future Foundation (2026)
+* **Junior Fellowship Research Grant**, Korea University (2026)
 * **Grand Prize**, Yongin City SW/AI Hackathon (2023)
 * **1st Place**, Dacon Twitter Sentiment Analysis Challenge -- Private Leaderboard (2023)
 
