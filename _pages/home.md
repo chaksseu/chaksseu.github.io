@@ -28,7 +28,7 @@ My research focuses on advancing **Multimodal Generative AI**, particularly by e
 
 ### International Conference
 
-* **[Compositional SVG Generation via VLM-Driven Hierarchical Semantic Parsing](https://chaksseu.github.io/)** <br>
+* **[Compositional SVG Generation via VLM-Driven Hierarchical Semantic Parsing](https://ku-miil.github.io/semantic-svg-generation/)** <br>
   Sehwan Park\*, Taehoon Kim\*, **Geonhee Han**, Dohyun Kim, Seung Wook Kim, Paul Hongsuck Seo (\* Equal contribution) <br>
   *EMNLP 2026* <span style="color:crimson; font-weight:bold;"></span> <br>
 
