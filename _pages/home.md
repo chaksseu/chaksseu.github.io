@@ -20,12 +20,6 @@ My research focuses on advancing **Multimodal Generative AI**, particularly by e
 
 ## 📝 Publications
 
-### Preprint
-
-* **[Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos](https://xwsa568.github.io/DRIFT/)** <br>
-  Youngseo Kim, Dohyun Kim, **Geonhee Han**, Paul Hongsuck Seo <br>
-  *arXiv 2025* <br>
-
 ### International Conference
 
 * **[Compositional SVG Generation via VLM-Driven Hierarchical Semantic Parsing](https://ku-miil.github.io/semantic-svg-generation/)** <br>
@@ -42,6 +36,10 @@ My research focuses on advancing **Multimodal Generative AI**, particularly by e
 
 ### International Journal
 
+* **[Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos](https://xwsa568.github.io/DRIFT/)** <br>
+  Youngseo Kim, Dohyun Kim, **Geonhee Han**, Paul Hongsuck Seo <br>
+  *The Visual Computer (2026, Accepted)* <br>
+  
 * **[CycleDiffusion: Voice Conversion Using Cycle-Consistent Diffusion Models](https://ai.korea.ac.kr/demo-cyclediffusion-vc/)** <br>
   Dongsuk Yook, **Geonhee Han**, Hyung-Pil Chang, In-Chul Yoo <br>
   *Applied Sciences, 14(20), 9595 (2024)* <br>
